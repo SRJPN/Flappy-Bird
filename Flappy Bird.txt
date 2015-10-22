@@ -3,3 +3,19 @@ Flappy Bird
 Game
 	A bird that flies through the hole of walls to survive.
 		It cant hit on the walls nor fall on the ground. It cant hit on the upper side of the screen also.
+
+=====================================================================================================================
+To Do
+	Lib
+		Moves according to keyboard input
+			keypress
+		Know the screen size
+			window-size
+		Construction of walls.
+		Speed of the bird.
+		Frequency of the walls.
+		On crash Message.
+		/Counting of Score.
+		/Player Name and highScore.
+
+
