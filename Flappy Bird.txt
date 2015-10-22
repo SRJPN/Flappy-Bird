@@ -1,0 +1,5 @@
+Flappy Bird
+======================================================================================================================
+Game
+	A bird that flies through the hole of walls to survive.
+		It cant hit on the walls nor fall on the ground. It cant hit on the upper side of the screen also.
