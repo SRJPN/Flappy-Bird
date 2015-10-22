@@ -17,5 +17,14 @@ To Do
 		On crash Message.
 		/Counting of Score.
 		/Player Name and highScore.
+	Test
+
+	Presentation
+		Wall colours.
+		Background.
+		Bird and movement.
+		Crash Message.
+
+====================================================================================================================
 
 
