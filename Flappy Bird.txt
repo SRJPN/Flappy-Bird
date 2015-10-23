@@ -17,8 +17,10 @@ To Do
 		On crash Message.
 		/Counting of Score.
 		/Player Name and highScore.
+	
 	Test
-
+		should have test for all the logic.
+		
 	Presentation
 		Wall colours.
 		Background.
